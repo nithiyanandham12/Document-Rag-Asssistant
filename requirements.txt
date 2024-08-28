@@ -9,5 +9,5 @@ langchain_community
 python-dotenv
 pypdf
 google-cloud-aiplatform>=1.38
-PyMuPDF==1.24.9
+PyMuPDF
 
